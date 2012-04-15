@@ -1,7 +1,9 @@
 BroadbandUSA App Parser
 ======================
 
-This tool, `parse.py`, converts the BroadbandUSA.gov online application database into a more easily analyzable Tab-Separate-Value file that can be easily imported into Excel.
+This tool, `parse.py`, converts the BroadbandUSA.gov online application database into a more easily analyzable Tab-Separate-Value file that can be easily imported into Excel. 
+
+BroadbandUSA is the online portal to apply for broadband funding under the American Recovery and Reinvestment Act of 2009. Summaries of applications that were submitted, as well as applications that were funded and the amounts of funding are available online in a cruddy html table. This parse liberates that data.
 
 How to use it
 -------------
